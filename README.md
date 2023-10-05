@@ -15,7 +15,7 @@
 Automated Bitcoin wallet generator. With mnemonic and passphrases bruteforces wallet addresses.
 
 ```
-# If you like it give it a star
+# If you like it give a star
 
 [![GitHub stars](https://img.shields.io/github/stars/adrijano/Bitcoin-wallet-cracker.svg?style=social&label=Star&maxAge=0)](https://github.com/adrijano/Bitcoin-wallet-cracker/)
 
